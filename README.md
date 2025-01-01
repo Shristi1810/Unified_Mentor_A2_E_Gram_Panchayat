@@ -22,3 +22,6 @@ To develop this application i have used Ecllipse JEE platform
 2) Real-time data handling through form inputs.
 3) Robust interaction with MySQL for CRUD (Create, Read, Update, Delete) operations.
 4) Deployment on Tomcat for easy access over the web.
+
+## PREPARATIONS
+https://github.com/users/Shristi1810/projects/3/views/1?pane=info
